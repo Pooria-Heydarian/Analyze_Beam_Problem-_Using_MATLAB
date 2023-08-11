@@ -66,6 +66,7 @@ To begin, you input the length of the beam and then select the desired unit. Aft
     <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/d242b75f-dcf0-4119-abf1-b601a85de2cb" alt="Figure 1_2" width="70%">
 </div>
 
+### Support
 In the "Support" section, you select the type of support. Enter the position of the support and then select the appropriate unit for its location. Afterward, you add the support. By changing the "Counter" value, you can add multiple supports. The information for each support is displayed in the table below the tab.
 
 To modify the data for any of the supports, place the counter number next to the desired support number, then make the necessary changes to the data and press the "Add" button.
@@ -79,17 +80,50 @@ It's worth noting that there is no limitation on the number of supports you can 
     <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/33481a84-2035-4b1d-ba1e-c88e9898c713" alt="Figure 1_3" width="70%">
 </div>
 
-
+### Section
 In the "Section" section, you can specify the location of a cross-section. The location of the cross-section is indicated by a multiplication sign (×) on the beam.
 
 <div align="center">
     <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/f2680805-c2a2-463c-894a-60ac1916111c" alt="Figure 1_4" width="70%">  
 </div>
 
+### Load
 In the next main tab, which is the "Load" tab, within the "Point Load" sub-tab, you enter the angle of the force with respect to the positive X-axis in the "Angle" section. Then, you input the position of the force's application and its magnitude with the desired unit, and add it. Figure 1-5 illustrates an example of two forces with different magnitudes and units at different positions.
 
 An important note is that the unit displayed in the table is always in SI units.
 
 <div align="center">
-    <img src="" alt="figure 1-5">
+<img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/96a0a848-aeca-4f21-bd47-828317411be3" alt="figure 1-5" width="70%">
+</div>
+
+### Moment
+In the "Moment" section, you receive information about moments. After receiving the direction of the moments and other necessary information, you add the moments.
+
+<div align="center">
+    <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/8a659a60-f9d3-4305-8efd-14e60620e6f8" alt="Figure 1_6" width="70%">
+</div>
+
+### Distributed Load
+In the "Distributed Load" section, you input information about distributed loads. Initially, you choose the direction of the force, then input the starting and ending points of the force, and finally enter the force equation.
+
+Note: When entering the equation, keep in mind that the variable of the equation is "x", and for entering powers of "x", you should use "(^.)". For multiplication, it's better to use ".*".
+<div align="center">
+    <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/35f4938e-c81d-4605-bfa8-f0b2a5e3d544" alt="Figure 1_7" width="70%">
+</div>
+
+### Solve
+After entering all the data, you press the "Solve" button and wait for the program to solve the problem. Once the program solves the problem, a new page opens displaying an analysis report. In this report, the following data are presented:
+
+1. An illustration showing the overall beam diagram.
+2. Shear force diagram.
+3. Bending moment diagram.
+4. Table containing support reactions (including horizontal force, vertical force, and moment at each support).
+5. Table displaying maximum and minimum shear forces, axial forces, and bending moments present in the beam.
+6. Table showing shear forces, axial forces, and bending moments at the section locations.
+
+This comprehensive report provides a detailed insight into the analysis of the solved problem, helping you understand the distribution of forces, reactions, and bending moments throughout the beam.
+
+<div align="center">
+    <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem-_Using_MATLAB/assets/107268679/8d3ed5cd-2bdf-4674-aba0-6a0b9bb57f5d" alt="Figure 1_8" width="70%">
+
 </div>
