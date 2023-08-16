@@ -1,5 +1,5 @@
 # Analyze_Beam_Problem-_Using_MATLAB
-This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details. Thanks to Mohammad_Younes_Heidari for his contribution (:
+This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details. Thanks to Mohammad_Younes_Heidari for his contribution.
 
 ## Introduction
 As part of the design of this program, approximately 150 hours have been invested. The output of this project is an advanced program for analyzing various beam problems within the scope of statics. This program has the capability to process various types of data, including:
