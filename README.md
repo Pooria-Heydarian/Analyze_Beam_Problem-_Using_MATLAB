@@ -1,6 +1,6 @@
 # Analyze_Beam_Problem_Using_MATLAB
 This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details. Thanks to Mohammad_Younes_Heidari for his contribution.
-The link below is a video tutorial made by Mohammad_Younes_Heidari which shows how to use the app
+The link below is a video tutorial made by him which shows how to use the app
 <div align="center">
   <a href="https://www.youtube.com/watch?v=D04FDE091i0">
     <img src="https://github.com/Pooria-Heydarian/Analyze_Beam_Problem_Using_MATLAB/assets/107268679/8d2c4dee-7053-418e-81a0-3c288867e5a4" alt="utube" width="60px">
