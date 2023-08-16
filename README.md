@@ -1,5 +1,5 @@
 # Analyze_Beam_Problem_Using_MATLAB
-This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details.
+This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details. Thanks to Mohammad_Younes_Heidari for his contribution.
 The link below is a video tutorial made by Mohammad_Younes_Heidari which shows how to use the app
 <div align="center">
   <a href="https://www.youtube.com/watch?v=D04FDE091i0">
