@@ -1,6 +1,6 @@
 # Analyze_Beam_Problem_Using_MATLAB
 This project aims to analyze beam problems in two-dimensional space. In this project, the user addresses the resolution of these problems by entering the problem's details.
-The link below is a vidio toturial made by Mohammad Younes Heidari which shows how to use the app
+The link below is a vidio toturial made by Mohammad_Younes_Heidari which shows how to use the app
 <div align="center">
   <a href="https://www.youtube.com/watch?v=D04FDE091i0">
     <img src="https://github.com/Pooria-Heydarian_Mohammad_Younes_Heidari/Analyze_Beam_Problem_Using_MATLAB/assets/107268679/8d2c4dee-7053-418e-81a0-3c288867e5a4" alt="utube" width="60px">
@@ -8,7 +8,7 @@ The link below is a vidio toturial made by Mohammad Younes Heidari which shows h
 </div>
 
 ## Introduction
-As part of the design of this program, approximately 150 hours have been invested by Mohammad Younes Heidari and me. The output of this project is an advanced program for analyzing various statically determined beam problems. This program has the capability to process various types of data, including:
+As part of the design of this program, approximately 150 hours have been invested by Mohammad_Younes_Heidari and me. The output of this project is an advanced program for analyzing various statically determined beam problems. This program has the capability to process various types of data, including:
 - Beam length
 - Support type and coordinates
 - Applied force with angle, coordinates, magnitude, and user-defined unit
